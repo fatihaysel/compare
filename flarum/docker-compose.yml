@@ -17,7 +17,7 @@ services:
     build:
       context: .
       dockerfile: flarum-fpm.dockerfile
-    image: php:3
+    image: flarum-fpm:1
     volumes:
       - ./:/var/www
     networks: 
