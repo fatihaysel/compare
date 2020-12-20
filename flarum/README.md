@@ -43,3 +43,4 @@ If you discover a security vulnerability within Flarum, please send an e-mail to
 
 Flarum is open-source software licensed under the [MIT License](https://github.com/flarum/flarum/blob/master/LICENSE).
 
+# compare
